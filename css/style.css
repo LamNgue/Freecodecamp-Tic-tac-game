@@ -1,0 +1,27 @@
+body{
+  background-color: #4B9130;
+}
+.title{
+  font-family: Lobster;
+  font-size: 30px;
+  margin-top: 2%;
+}
+.grids{
+  margin-top: 5%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.square{
+    width:100px;
+    height:100px;
+}
+table, th, td {
+  border: 2px double black;
+  background-color: #AA6C39;
+}
+
+#reset,#choose{
+  margin-top: 3%;
+  font-size: 20px;
+  font-family: "Orbitron",sans-serif;  
+}
